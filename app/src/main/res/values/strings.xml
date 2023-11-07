@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My_App</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet, Sign Up !</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="google_logo">google logo</string>
+    <string name="sign_up_with_google">Sign Up with Google</string>
+    <string name="or">OR</string>
+    <string name="default_web_client_id" />
+</resources>
